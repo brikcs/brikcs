@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1>bricks</h1>
 
-<!--
-**postponlng/postponlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- harvey
+- 17
+- united kingdom
+- best weapon dev ever 
 
-Here are some ideas to get you started:
+<h2 align="center">langs</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Great_Britain_%28English_version%29.png" alt="lua" height="50" width="50" />
+</p>
+
+<h2 align="center">current projects</h2>
+
+(Newest -> Oldest)
+- [BW](https://discord.gg/BWRP) *(FiveM UK/EU Semi RP/Fragging Server)*
+
+<h2 align="center">past projects</h2>
+
+(Newest -> Oldest)
+- [CTD](https://discord.gg/CTD) *(FiveM UK/EU Semi RP/Fragging Server)*
+<h2 align="center">contact</h2>
+
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=postponlng&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=postponlng&hide_border=true&card_width=338&theme=transparent" /></p>
+<img src="https://komarev.com/ghpvc/?username=postponlng&color=lightgray" alt="fax" width="" height="">
+<p align="center">
+</p>
+
+
+ 
