@@ -11,6 +11,9 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Great_Britain_%28English_version%29.png" alt="lua" height="50" width="50" />
 </p>
 
+## Status
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/893213468264640583?theme=transparent&bg=0d1117&animated=true&idleMessage=divent%20devin&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/422444198835257363)
+
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
