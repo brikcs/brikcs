@@ -23,9 +23,9 @@
 - [CTD](https://discord.gg/CTD) *(FiveM UK/EU Semi RP/Fragging Server)*
 <h2 align="center">contact</h2>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=postponlng&theme=transparent" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=postponlng&hide_border=true&card_width=338&theme=transparent" /></p>
-<img src="https://komarev.com/ghpvc/?username=postponlng&color=lightgray" alt="fax" width="" height="">
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briks&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brikcs&hide_border=true&card_width=338&theme=transparent" /></p>
+<img src="https://komarev.com/ghpvc/?username=brikcs&color=lightgray" alt="fax" width="" height="">
 <p align="center">
 </p>
 
