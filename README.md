@@ -15,7 +15,7 @@
 <h2 align="center">current projects</h2>
 
 (Newest -> Oldest)
-- [BW](https://discord.gg/BWRP) *(FiveM UK/EU Semi RP/Fragging Server)*
+- [CTD](https://discord.gg/ctd5m) *(FiveM UK/EU Semi RP/Fragging Server)*
 
 <h2 align="center">past projects</h2>
 
