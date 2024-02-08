@@ -5,29 +5,18 @@
 - united kingdom
 - best weapon dev ever 
 
-<h2 align="center">langs</h2>
+## Skills
+<img width="20" src="[https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png](https://cdn.britannica.com/44/344-004-494CC2E8/Flag-England.jpg)" /> English
 
-<p align="center">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Great_Britain_%28English_version%29.png" alt="lua" height="50" width="50" />
-</p>
+## Status
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/264772390951714816?theme=transparent&bg=0d1117&animated=true&idleMessage=divent%20devin&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/264772390951714816)
 
+## Stats
 
-<h2 align="center">current projects</h2>
+![bricks' GitHub commits](https://github-readme-streak-stats.herokuapp.com/?user=brikcs&theme=transparent&hide_border=true)
 
-(Newest -> Oldest)
-- [CTD](https://discord.gg/ctd5m) *(FiveM UK/EU Semi RP/Fragging Server)*
+![bricks' GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=brikcs&layout=donut&theme=transparent&hide_border=true)
 
-<h2 align="center">past projects</h2>
+![brick' GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=brikcs&theme=transparent&v=2&hide_border=true)
 
-(Newest -> Oldest)
-- [CTD](https://discord.gg/CTD) *(FiveM UK/EU Semi RP/Fragging Server)*
-<h2 align="center">contact</h2>
-
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briks&theme=transparent" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brikcs&hide_border=true&card_width=338&theme=transparent" /></p>
-<img src="https://komarev.com/ghpvc/?username=brikcs&color=lightgray" alt="fax" width="" height="">
-<p align="center">
-</p>
-
-
- 
+![](https://komarev.com/ghpvc/?username=Bentheborg&color=blue)
