@@ -12,7 +12,11 @@
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/800px-Javascript_badge.svg.png" /> JavaScript
+
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/230px-HTML5_logo_and_wordmark.svg.png" /> HTML
+
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" /> CSS
 
 ## Status
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/264772390951714816?theme=transparent&bg=0d1117&animated=true&idleMessage=Freelance%20Developer&borderRadius=15px&hideDiscrim=false)](https://discord.com/users/264772390951714816)
