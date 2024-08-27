@@ -27,6 +27,4 @@
 
 ![bricks' GitHub Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=brikcs&layout=donut&theme=transparent&hide_border=true)
 
-![bricks' GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=brikcs&theme=transparent&v=2&hide_border=true)
-
 ![](https://komarev.com/ghpvc/?username=brikcs&color=blue)
