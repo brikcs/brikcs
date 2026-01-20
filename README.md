@@ -1,9 +1,9 @@
 <h1>bricks</h1>
 
 - harvey
-- 18
+- 19
 - united kingdom
-- cyber security student @ university
+- cyber security student @ university (dropout)
 - british army veteran
 
 ## Skills
