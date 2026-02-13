@@ -4,7 +4,7 @@
 - 19
 - united kingdom
 - cyber security student @ university (dropout)
-- british army veteran
+- british army veteran (was discharged)
 
 ## Skills
 <img width="15" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" /> Python
